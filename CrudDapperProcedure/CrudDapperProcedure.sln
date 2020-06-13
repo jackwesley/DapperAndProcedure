@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudDapperAndProcedure", "..\src\CrudDapperAndProcedure\CrudDapperAndProcedure.csproj", "{36A295FF-DCDD-4A99-8528-B07293F7B830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36A295FF-DCDD-4A99-8528-B07293F7B830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A295FF-DCDD-4A99-8528-B07293F7B830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A295FF-DCDD-4A99-8528-B07293F7B830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A295FF-DCDD-4A99-8528-B07293F7B830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9E00381-EFD6-4F97-B55B-798E7409B29F}
+	EndGlobalSection
+EndGlobal
